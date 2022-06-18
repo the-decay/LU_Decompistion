@@ -315,7 +315,5 @@ int main()
 	printf("Calculating the Values of x,y,z:");
 	printf("\n\n");
 	
-	niPrint();
-	
-	printf("\n\nArt by Deepak - dk -");	
+	niPrint();	
 }
