@@ -2,7 +2,7 @@ This purpose of this program was to help me in my homework in my first semeteste
 
 -------------- This is an example output --------------
 
-``The System of Linear Equations can be written as :
+```The System of Linear Equations can be written as :
 
     |1  2  3| |x| = |14|
     |2  3  4| |y| = |20|
@@ -85,5 +85,4 @@ Calculating the Values of x,y,z:
 
   z=3/1
   y=2/1
-  x=1/1
-``
+  x=1/1```
