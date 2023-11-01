@@ -1,4 +1,4 @@
-This purpose of this program was to help me in my homework in my first semetester and it was written in C as it was the onlhy language I am proficient at that time.
+This purpose of this program was to help me in my homework in my first semetester and it was written in C as it was the only language I was familiar with at the time.
 
 -------------- This is an example output --------------
 
